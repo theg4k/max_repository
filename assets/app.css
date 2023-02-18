@@ -262,10 +262,7 @@ body {
 
 }
 
-.carousel-item img {
-    width: 100vw;
-}
-
-.elementos-topo-1 {
-    position: absolute;
+.background-arena{
+    background-image: url("/img/robo.png");
+    
 }
